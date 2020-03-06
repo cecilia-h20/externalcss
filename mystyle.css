@@ -1,0 +1,16 @@
+
+body {background-color: #869ff2;}
+h1   {color: #57e597; font-family: "Garamond", serif; text-align:center; font-size: 200px;}
+p    {color: #122586; font-family: "Garamond", serif; text-align:center; font-size: 50px; }
+h2   {color: #fe299b; font-family: "Garamond", serif; text-align:center; font-size: 125px; }
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: 50;
+  width: 35%;
+  border: 5px solid #a93226;
+
+}
+  div {
+  word-wrap: break-word;
+}
